@@ -9,4 +9,4 @@ Project Folder contains:
 
 Demo Video:
 
-[![Watch the video](https://img.youtube.com/vi/CkbDVIfOazs/maxresdefault.jpg)](https://youtu.be/CkbDVIfOazs)
+[![Watch the video](https://user-images.githubusercontent.com/65522978/174449414-425ba3a2-829a-4b8e-83d3-d8861735824a.png)](https://youtu.be/CkbDVIfOazs)
