@@ -7,4 +7,6 @@ Project Folder contains:
 2) Code - Atmega-32 based Robot Code
 3) Results - Test Video
 
-Project Creators: Pranay Junare, Anirudha Gaikwad
+Demo Video:
+
+[![Watch the video](https://img.youtube.com/vi/CkbDVIfOazs/maxresdefault.jpg)](https://youtu.be/CkbDVIfOazs)
